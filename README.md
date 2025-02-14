@@ -6,7 +6,7 @@ First Repository
 - [HOW TO RUN PROGRAM](#How-to-run-program)
 - [FILES USED](#files-used)
 - [ADDITIONAL DOCUMENTATION](#additional-documentation)
-- [VERSIONING}(#Versioning)
+- [VERSIONING](#Versioning)
 
  ## Project Title
  
