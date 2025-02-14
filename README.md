@@ -10,14 +10,14 @@ First Repository
 
  ## Project Title
  
-*Hello World Sample*
+*Helo World Sample *
 
 ## Description
-*Description*
+*This repository will help me greatly to pass BAIS Pro Prep*
 
 ## How to Run Program
 
-*ahhh help*
+***ahhh help I don't know***
 
 ## Files Used
 
@@ -29,4 +29,4 @@ First Repository
 
 ## Versioning
 
-*idek*
+**2.04.1**
