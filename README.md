@@ -10,7 +10,7 @@ First Repository
 
  ## Project Title
  
-*Hello WOrld Sample*
+*Hello World Sample*
 
 ## Description
 *Description*
