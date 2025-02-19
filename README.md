@@ -22,8 +22,9 @@ First Repository
 > **DOES ANYONE KNOW HOW TO RUN THIS PROGRAM?**
 
 ## Files Used
-
-*data* :some people would say this is too much data actually
+A CVP graph was used in the makeing of HELLO_WORLD
+This graph was created using Power BI in my Manegerial Accounting course this semester!
+[MANEGERIALPOWERBI.PDF](ManegerialPowerBI.pdf) :some people would say this is too much data actually
 
 ## Additional Documentation
 
