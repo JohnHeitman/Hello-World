@@ -18,6 +18,8 @@ First Repository
 ## How to Run Program
 
 > ***ahhh help I don't know***
+>
+> **DOES ANYONE KNOW HOW TO RUN THIS PROGRAM?**
 
 ## Files Used
 
@@ -25,7 +27,7 @@ First Repository
 
 ## Additional Documentation
 
-*Aaron Rodgers shoudl ahve retired a couple seasons ago*
+*Aaron Rodgers should have retired a couple seasons ago*
 
 ## Versioning
 
