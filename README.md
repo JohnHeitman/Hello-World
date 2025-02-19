@@ -6,27 +6,29 @@ First Repository
 - [HOW TO RUN PROGRAM](#How-to-run-program)
 - [FILES USED](#files-used)
 - [ADDITIONAL DOCUMENTATION](#additional-documentation)
-- [VERSIONING}(#Versioning)
+- [VERSIONING](#Versioning)
 
  ## Project Title
  
-*Hello WOrld Sample*
+*Helo World Sample*
 
 ## Description
-*Description*
+*This repository will help me greatly to pass BAIS Pro Prep*
 
 ## How to Run Program
 
-*ahhh help*
+> ***ahhh help I don't know***
+>
+> **DOES ANYONE KNOW HOW TO RUN THIS PROGRAM?**
 
 ## Files Used
 
-*data*
+*data* :some people would say this is too much data actually
 
 ## Additional Documentation
 
-*read*
+*Aaron Rodgers should have retired a couple seasons ago*
 
 ## Versioning
 
-*idek*
+**MAAAIVE CHANGES HAVE BEEN MADE TO HELLO-WORLD, ITS UP TO YOU TO FIGURE OUT WHAT THEY ARE**
